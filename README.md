@@ -59,6 +59,10 @@ Once the dashboard is running, you can use the following features:
 - Compare emissions between countries using the scatterplot.
 - Visualize CO2 emissions on the map.
 
+
+https://github.com/kirudang/Interactive_dashboard_Panel/assets/91911269/cd230aa1-e1ae-4847-be22-f39290d36f2d
+
+
 ## Dependencies
 
 The dashboard relies on the following Python libraries:
